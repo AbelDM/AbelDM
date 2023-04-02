@@ -9,8 +9,8 @@ Full Stack developer with 2 years of experience programming with web technologie
 
 🚀 Follow me on: 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abeldm/)
-[<img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://abeldm.tk/)
-[<img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=black" />](https://wa.me/51994447715)
+[<img src= "https://img.shields.io/badge/my_website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://abeldm.tk/)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/51994447715)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abeldaza1991@gmail.com)
 
 <!--
