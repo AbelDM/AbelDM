@@ -3,6 +3,8 @@
 <!-- DESCRIPTION -->
 Full Stack developer with 2 years of experience programming with web technologies and a Data Analyst practicioner. Excellent working with others and contributing to implement the best solutions for complex problems.
 
+<p align="center"> <a href="https://github.com/AbelDM/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbelDM" alt="AbelDM" /></a> </p>
+
 💚 I am a tech **lover**.
 
 👨‍💻 Currently working on my thesis on business intelligence and data analytics
@@ -43,15 +45,24 @@ _I love to make projects to increase my technical skills and keep learning about
 |---|---|
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) |![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+##  Support me 
+
+<p><a href="https://www.buymeacoffee.com/abeldm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="osppro" /></a></p><br><br>
 
 ## 📈 My Github Stats 💻
+
 <div align="center">
  
 [![AbelDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelDM&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/AbelDM/github-readme-stats)
+[![AbelDM's Most used langs](https://github-readme-stats.vercel.app/api/top-langs?username=AbelDM&show_icons=true&locale=en&layout=compact)](#)
+[![AbelDM's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AbelDM&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&layout=compact)](#)
+
 </div>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbelDM&count_bg=%green&title_bg=%black&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+
+
 
 <!--
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
