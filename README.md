@@ -1,7 +1,7 @@
 # ![banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUyW-8eImRz3H64gEAD-K_3nPfp35tjWNIyEV5zAOl3s9C7I_JtkL5RKWuOZ_Mi9VrDhcco4EBA2fwAkSvlYiB63JlomkWm-LPiDNboP2BA-bcNYx1NRXc8GqB3Dn-SVtngaH9hqPEw3mc8cgxAb6oMnBYXhZMl4KlW9b94N5wfyh_RFFAQJMal8kJA/s2004/LOGO%20ABELDM.png)
 
 <!-- DESCRIPTION -->
-Full Stack developer with 2 years of experience programming with web technologies and a Data Analyst practicioner. Excellent working with others and contributing to implement the best solutions for complex problems.
+FrontEnd developer with 2 years of experience programming with web technologies and a Data Analyst Intern. Excellent working with others and contributing to implement the best solutions for complex problems.
 
 <p align="center"> <a href="https://github.com/AbelDM/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbelDM" alt="AbelDM" /></a> </p>
 
